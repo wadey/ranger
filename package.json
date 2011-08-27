@@ -1,30 +1,33 @@
 {
-  "name": "ranger",
-  "description": "A node.js library for interacting with Campfire",
+  "name": "wadey-ranger",
+  "description": "wadey's fork of: A node.js library for interacting with Campfire",
   "keywords": [
     "campfire",
     "chat",
     "api"
   ],
-  "author": "Matt Duncan <matt@mattduncan.org> (http://mattduncan.org)",
+  "contributors": [
+    "Matt Duncan <matt@mattduncan.org> (http://mattduncan.org)",
+    "Wade Simmons <wade@wades.im> (http://wades.im/mons)"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mrduncan/ranger"
+    "url": "git://github.com/wadey/ranger"
   },
   "bugs": {
-    "web": "http://github.com/mrduncan/ranger/issues"
+    "web": "http://github.com/wadey/ranger/issues"
   },
   "licenses": [{
     "type": "MIT",
-    "url": "http://github.com/mrduncan/ranger/raw/master/LICENSE"
+    "url": "http://github.com/wadey/ranger/raw/master/LICENSE"
   }],
   "lib": "lib",
   "main": "./lib/ranger",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "engines": {
     "node": "0.4 || 0.5"
   },
-  "homepage": "http://github.com/mrduncan/ranger",
+  "homepage": "http://github.com/wadey/ranger",
   "directories": {
     "lib": "lib"
   }
