@@ -23,7 +23,7 @@
   }],
   "lib": "lib",
   "main": "./lib/ranger",
-  "version": "0.3.5",
+  "version": "0.3.5-noreconnect",
   "engines": {
     "node": "0.4 || 0.5"
   },
